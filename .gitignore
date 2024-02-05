@@ -1,0 +1,10 @@
+node_modules
+
+# Ambiente
+.env
+docker-compose.yml
+
+# Banco de dados
+data
+database
+.tool-versions
